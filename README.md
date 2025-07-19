@@ -5,10 +5,15 @@ I got the Hopital Data from Kaglle and I wanted to explore the data and understa
 
 ## Questions
 -What is the total number of patients recorded?
+
 -What is the average age of patients?
+
 -What is the average satisfaction from the hospital care?
+
 -What is average length of stay in hospital?
+
 -What is the total number of conditions recorded?
+
 -Which is condition has the highest treatment cost?  
 
 ##Dashboard
