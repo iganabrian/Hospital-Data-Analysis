@@ -13,7 +13,6 @@ I got the Hopital Data from Kaglle and I wanted to explore the data and understa
 
 #Dashboard
 
-<img width="1203" height="390" alt="image" src="https://github.com/user-attachments/assets/23e58fc6-4dd0-48a2-a89d-7e17df9f008c" />
 
 
 
