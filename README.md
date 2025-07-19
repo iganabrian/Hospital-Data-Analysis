@@ -16,8 +16,11 @@ I got the Hopital Data from Kaglle and I wanted to explore the data and understa
 
 -Which is condition has the highest treatment cost?  
 
-##Dashboard
+## Dashboard
 -<a href= "https://github.com/iganabrian/Hospital-Data-Analysis/blob/main/Dashboard.PNG">Dashboard<a>
+
+## Insights
+-<a href ="">Insights<a>
 
 
 
