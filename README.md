@@ -31,9 +31,9 @@ This Excel solution solves these issues by delivering:
 * **Interactivity:** Dynamic Slicers, Timelines, and conditional formatting rules for a true application-like user experience.
 
 
-## Actionable Business Insights* 
+## Business Insights
 
-* **Heart attack and Fractured legs are the most common conditions.** Fractured legs & Heart attack.
+**Heart attack and Fractured legs are the most common conditions.** Fractured legs & Heart attack.
 
 - Fractured legs;  
 
@@ -45,25 +45,14 @@ Sedentary lifestyle, unhealthy diet, metabolic issues could be a cause for why h
 
 **Segmentation by Admision Period:** The hospital handles a lot of cases that require the patient to stay for a long time indicating a need for close monitoring of patient's health condition. 
 
-Here is the updated, tailored README template designed specifically to showcase high-level Excel Business Intelligence and data modeling skills.
-
-## Strategic Recommendations
-1.**Discharge Protocol Standardization:** Implement early clinical assessment tracks for department groups experiencing high average lengths of stay to free up beds faster.
-
-2. **Resource Allocation Shifts:** Reallocate idle nursing and administrative staff from lower-volume regional branches over to high-demand emergency departments.3. 
-
-**Payer-Mix Optimization:** Launch an auditing strategy within high-cost care channels to reduce operational costs and stabilize fading profit margins.
 
 ## How to Interact with the Workbook
 1. Clone this repository to your desktop machine:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/iganabrian/Hospital-Data-Analysis.git 
    ```
 2. Open the `.xlsx` file using **Microsoft Excel 2019 or newer** (for full Power Query compatibility).
 
-3. Ensure macros/data connections are enabled if prompted.
-
-4. Use the visual **Slicers** (e.g., City, Diagnosis, or Year) on the dashboard sheet to filter the entire workbook instantly.5. Click **Data > Refresh All** to automatically re-run the Power Query script if the underlying source data is updated.
 
 
 
